@@ -1,6 +1,6 @@
 // @flow
 
-import lexer from 'pug-lexer'
+import lexer from '@startupjs/pug-lexer'
 import visitors from './visitors'
 import State from './State'
 

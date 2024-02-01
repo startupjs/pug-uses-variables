@@ -13,6 +13,6 @@
  * https://github.com/flowtype/flow-typed
  */
 
-declare module 'pug-lexer' {
+declare module '@startupjs/pug-lexer' {
   declare export default function method(input: string): Array<Token>;
 }
